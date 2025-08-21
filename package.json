@@ -2,6 +2,7 @@
     "name": "js-test-pr-fail",
     "version": "1.0.0",
     "dependencies": {
+        "airbnb-i18n": "99.9.10",
         "web3": "^1.2.0"
     }
 }
