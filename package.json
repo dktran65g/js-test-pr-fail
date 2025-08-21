@@ -1,0 +1,7 @@
+{
+    "name": "js-test-pr-fail",
+    "version": "1.0.0",
+    "dependencies": {
+        "web3": "^1.2.0"
+    }
+}
